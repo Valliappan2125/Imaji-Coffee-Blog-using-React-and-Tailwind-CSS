@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/css/main.162e4c5e.css",
+    "main.js": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/js/main.1e1353e2.js",
+    "static/js/787.f587e8d5.chunk.js": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/index.html",
+    "main.162e4c5e.css.map": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/css/main.162e4c5e.css.map",
+    "main.1e1353e2.js.map": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/js/main.1e1353e2.js.map",
+    "787.f587e8d5.chunk.js.map": "/Imaji-Coffee-Blog-using-React-and-Tailwind-CSS/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162e4c5e.css",
+    "static/js/main.1e1353e2.js"
+  ]
+}
